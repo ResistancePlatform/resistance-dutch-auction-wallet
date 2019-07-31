@@ -3,7 +3,7 @@ Resistance Desktop Wallet with Dutch Auction, Mainnet, CPU Miner, and more
 
 ## Installation Instructions
 
-If you have any questions or find any issues with the Desktop Wallet, please contact admins via DM in https://t.me/resistanceplatform.
+If you have any questions, *receive a message for "Manual Review" during Dutch Auction registration*, or find any issues with the Desktop Wallet, please contact admins via DM in https://t.me/resistanceplatform.
 
 ### MacOS
 
