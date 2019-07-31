@@ -12,6 +12,12 @@ Resistance Desktop Wallet with Dutch Auction, Mainnet, CPU Miner, and more
 5. Drag the Resistance Application Icon to the Applications folder as instructed by the popup menu.
 6. Open your Applications folder and Double-click "ReistanceWallet.app".
 
+SHA256 Hash:
+
+```
+c6a7b37975499877e8ad89cfb5838e0dc5e315bc6b4635afd385a103be28e612
+```
+
 ### Windows
 
 1. Download the Resistance Desktop Wallet from LINK.
