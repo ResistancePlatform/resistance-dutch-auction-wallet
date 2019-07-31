@@ -5,7 +5,7 @@ Resistance Desktop Wallet with Dutch Auction, Mainnet, CPU Miner, and more
 
 ### MacOS
 
-1. Download the Resistance Desktop Wallet from LINK. 
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.0.6/ResistanceWallet-2.0.6.dmg.zip. 
 2. Unzip the file.
 2. Double-click the unzipped DMG file. You will see a message that says Resistance Wallet can't be opened because it's from an unidentified developer. Click "OK"
 3. Open "System Preferences > Security & Privacy". Click "Open Anyways" at the bottom.
