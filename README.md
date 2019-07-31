@@ -1,4 +1,4 @@
-# resistance-dutch-auction-wallet
+# Resistance Dutch Auction Desktop Wallet
 Resistance Desktop Wallet with Dutch Auction, Mainnet, CPU Miner, and more
 
 ## Installation Instructions
