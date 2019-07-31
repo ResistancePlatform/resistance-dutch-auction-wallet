@@ -3,6 +3,8 @@ Resistance Desktop Wallet with Dutch Auction, Mainnet, CPU Miner, and more
 
 ## Installation Instructions
 
+If you have any questions or find any issues with the Desktop Wallet, please contact admins via DM in https://t.me/resistanceplatform.
+
 ### MacOS
 
 1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.0.6/ResistanceWallet-2.0.6.dmg. 
@@ -21,7 +23,7 @@ c6a7b37975499877e8ad89cfb5838e0dc5e315bc6b4635afd385a103be28e612  ResistanceWall
 ### Windows
 
 1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.0.6/ResistanceWallet-Setup-2.0.6.exe.zip.
-2. Double-click the download. It will begin to install Resistance.
+2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.0.6". It will begin to install Resistance.
 3. Once it's finished, Resistance should automatically open.
 4. Once it's open, you can open it in the future by looking in your Start menu.
 
