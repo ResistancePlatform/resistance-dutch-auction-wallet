@@ -7,7 +7,7 @@ If you have any questions, **receive a message for "Manual Review" during Dutch 
 
 ### MacOS
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.0.7/ResistanceWallet-2.0.7.dmg. 
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.1.0/ResistanceWallet-2.1.0.dmg. 
 2. Double-click the unzipped DMG file. You will see a message that says Resistance Wallet can't be opened because it's from an unidentified developer. Click "OK".
 3. Open "System Preferences > Security & Privacy". Click "Open Anyways" at the bottom.
 4. You will see a message that says "Resistance Wallet is from an Unidentified Developer". Click "Open".
@@ -17,18 +17,18 @@ If you have any questions, **receive a message for "Manual Review" during Dutch 
 SHA256 Hash:
 
 ```
-d1c555ae3671fee5d11d1d6038d319b33ecfd312f823acca48ab132a082b2a04  ResistanceWallet-2.0.7.dmg
+2bf18700981ece9f45c758ea68f7c495a3a9d41064c9c10cf7b7808ad6571d8e  ResistanceWallet-2.1.0.dmg
 ```
 
 ### Windows
 
-1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.0.7/ResistanceWalletSetup-2.0.7.exe.zip.
-2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.0.6". It will begin to install Resistance.
+1. Download the Resistance Desktop Wallet from https://github.com/ResistancePlatform/resistance-dutch-auction-wallet/releases/download/2.1.0/ResistanceWalletSetup2.1.0.exe.zip.
+2. Unzip the downloaded file. Double-click the file named "ResistanceWallet Setup 2.1.0.exe". It will begin to install Resistance.
 3. Once it's finished, Resistance should automatically open.
 4. Once it's open, you can open it in the future by looking in your Start menu.
 
 SHA256 Hash:
 
 ```
-f820133bcf3c77ac8581544b22c42a68d13b9b4bd018d581c6fef8f6aa1b3bab  ResistanceWalletSetup-2.0.7.exe.zip
+9da7c194af13fa04d2924282dc7691b316ab64a44f89c8593caa8252022d62c7  ResistanceWalletSetup2.1.0.exe.zip
 ```
